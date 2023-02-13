@@ -1,1 +1,1 @@
-# TheSimonGame.github.io
+# SIMON-GAME.github.io
